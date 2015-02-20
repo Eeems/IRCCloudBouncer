@@ -1,0 +1,20 @@
+{
+	"name": "irccloud-bouncer",
+	"version": "0.0.1",
+	"author": {
+		"name": "Nathaniel van Diepen",
+		"email": "eeems@omnimaga.org",
+		"url": "http://eeems.ca"
+	},
+	"description": "",
+	"scripts": {
+		"start": "node ./index.js"
+	},
+	"main": "./lib/irccloud.js",
+	"devDependencies": {
+		"tape": "2.x"
+	},
+	"dependencies": {
+		"xhr2": "*"
+	}
+}
