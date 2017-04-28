@@ -12,7 +12,7 @@
 	},
 	"main": "./lib/irccloud.js",
 	"devDependencies": {
-		"tape": "2.x"
+		"tape": "^4.6.3"
 	},
 	"dependencies": {
 		"xhr2": "*",
